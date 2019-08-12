@@ -30,10 +30,17 @@ La formation devient un moyen pour accéder à un emploi et non une finalité.
 
 Le site de Trait d’union propose aujourd’hui la liste des offres d’emploi disponibles autour de Metz qui sont en lien avec au moins une formation financée par la Région Grand Est.  
 
+## Des bénéfices
+
+Pour le demandeur d’emploi : il a accès à une liste inédite d’offres d’emploi qualifiées à côté de chez lui, il n’a pas de recherche de stage et de travail à faire après la formation, il découvre l’environnement de l’entreprise et il a un engagement d’embauche.
+
+Pour l’entreprise : elle rencontre un candidat motivé car prêt à se former, il habite à côté et sera opérationnel de suite après la formation.
+
+Pour l’organisme de formation : des stagiaires motivés, qui ont déjà une entreprise pour leur stage, un meilleur taux de réussite.
+
 ## La suite
 
 Afin de continuer les tests sur cette solution : 
 -	Tester une autre interface
 -	Déployer sur d’autres bassins d’emploi 
 -	En parallèle, la construction d’un partenariat avec différentes parties prenantes
-
