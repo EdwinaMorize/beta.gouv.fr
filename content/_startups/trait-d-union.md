@@ -18,7 +18,6 @@ D’un côté, la région Grand Est finance la formation de 50 000 personnes en 
 
 D’un autre côté, les entreprises se plaignent de ne pas trouver les personnes qualifiées à leur besoin de main d’œuvre. En 2018, sur 172 000 projets de recrutement, 46.7% sont jugés difficiles alors qu’il y a 16.8% de projets en plus par rapport à 2017 (chiffres BMO pôle emploi).
 
-Il y a un manque de visibilité et de lien entre les personnes formées et les entreprises qui recrutent.
 
 ## Investigation pour un vaste drame
 
