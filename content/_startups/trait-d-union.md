@@ -12,23 +12,28 @@ stats: false
 contact: edwina.morize@beta.gouv.fr
 ---
 
-## Un problème d’emploi-formation
+## Un constat, plusieurs problèmes
 
-D’un côté, la région Grand Est finance la formation de 50 000 personnes en recherche d’emploi sur un an. Sur ces 50 000, 34% ont un emploi après 1 mois et seulement 55% 1 an après la fin de leur formation.
+La région Grand Est finance la formation de 50 000 personnes en recherche d’emploi sur un an. Or 45% des stagiaires ne sont pas dans une situation d’emploi 1 an après la fin de la formation. 
 
-D’un autre côté, les entreprises se plaignent de ne pas trouver les personnes qualifiées à leur besoin de main d’œuvre. En 2018, sur 172 000 projets de recrutement, 46.7% sont jugés difficiles alors qu’il y a 16.8% de projets en plus par rapport à 2017 (chiffres BMO pôle emploi).
+Après une étude de terrain auprès des demandeurs d’emploi, des entreprises et experts du domaine, plusieurs problèmes nous ont apparu. Sur les personnes n’ayant pas d’emploi après une formation : 
+- 2 sur 5 estiment avoir eu une mauvaise orientation
+- 1 sur 5 déclarent ne pas chercher un travail ou ne souhaitaient pas suivre de formation 
 
+## La solution
 
-## Investigation pour un vaste drame
+Faire rencontrer demandeurs d’emploi et entreprises avant une formation et une prise de poste : commencer par le choix d’une offre d’emploi plutôt que par le choix d’une formation. 
 
-Plusieurs expérimentations sur le terrain ont lieu pour cerner les difficultés des personnes sortant de formation et celles des entreprises :
-- Les entreprises ne connaissent pas les formations ?
-- Les stagiaires ne connaissent les entreprises qui recrutent dans un domaine donné ?
-- Les entreprises qui recrutent et les personnes qui veulent se former ne communiquent pas entre elles ?
+Proposer aux demandeurs d’emploi de commencer par candidater à une offre d’emploi à côté de chez lui, puis, s’il convient à l’entreprise, de partir en formation qualifiante pour être opérationnel sur le poste. 
 
-Un fonctionnement en design sprint nous permet de mieux comprendre les problèmes rencontrés par les usagers et de tester différents angles d’attaque.
+La formation devient un moyen pour accéder à un emploi et non une finalité. 
+
+Le site de Trait d’union propose aujourd’hui la liste des offres d’emploi disponibles autour de Metz qui sont en lien avec au moins une formation financée par la Région Grand Est.  
 
 ## La suite
 
-Après ces premiers mois d’investigation, nous nous focaliserons sur l’exécution de la solution qui nous semblera la plus pertinente ; pour un déploiement plus global à l’été 2019.
+Afin de continuer les tests sur cette solution : 
+-	Tester une autre interface
+-	Déployer sur d’autres bassins d’emploi 
+-	En parallèle, la construction d’un partenariat avec différentes parties prenantes
 
